@@ -6,7 +6,7 @@
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
 - Hotel Booking Data Dashboard <br />
-**- Unlocking Revenue Potential: Can Overbooking Same-Month Reservations Offset Cancellations and Boost Profitability?** <br />
+**- Can Overbooking Same-Month Reservations Offset Cancellations and Boost Profitability?** <br />
 
 ![Dashboard](Visuals/Hotel_Booking_Dashboard.png)
  <br />
