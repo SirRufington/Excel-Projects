@@ -11,10 +11,12 @@
 ![Dashboard](Visuals/Hotel_Booking_Dashboard.png)
  <br />
  <br />
+ <br />
 - US Labor Statistics Data: **Career Industries Interactive Dashboard** <br />
 Scenario: I am a Research Analyst at a non-profit organization helping high school seniors find career paths. My boss needs a dashboard built for an upcoming round of school visits. <br />
 
 ![Dashboard](Visuals/Careers_Dashboard.png)
+ <br />
  <br />
  <br />
 - Toy Stores Monthly Sales Data: **Toy Stores Regional Revenue Dashboard** <br />
