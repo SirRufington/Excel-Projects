@@ -5,6 +5,12 @@
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
+- Hotel Booking Data <br />
+**Unlocking Revenue Potential: Can Overbooking Same-Month Reservations Offset Cancellations and Boost Profitability?** <br />
+
+![Dashboard](Visuals/Hotel_Booking_Dashboard.png)
+ <br />
+ <br />
 - US Labor Statistics Data: **Career Industries Interactive Dashboard** <br />
 Scenario: I am a Research Analyst at a non-profit organization helping high school seniors find career paths. My boss needs a dashboard built for an upcoming round of school visits. <br />
 
@@ -15,4 +21,6 @@ Scenario: I am a Research Analyst at a non-profit organization helping high scho
 Scenario: COO have a monthly call with the Regional Sales Managers, and ask me to build a dashboard that they can use to filter by region, track monthly revenue trends, and see performance year-over-year. He'd also like to compare performance across stores, and identify which specific products drove the biggest gains and losses <br />
 
 ![Dashboard](Visuals/ToyStores_Regional_Revenue_Dashboard.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
